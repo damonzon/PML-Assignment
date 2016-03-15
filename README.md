@@ -1,4 +1,6 @@
-# Practical Machine Learning - Johns Hopkins University - Coursera
+# Practical Machine Learning - Module 9
+# Johns Hopkins University 
+# Data Science Specialization on Coursera
 
 ## Week 4: Prediction Assignment Writeup
 
