@@ -1,11 +1,9 @@
 # Practical Machine Learning - Module 9
-# Johns Hopkins University 
-# Data Science Specialization on Coursera
+## Johns Hopkins University 
+## Data Science Specialization on Coursera
 
 ## Week 4: Prediction Assignment Writeup
-
 ## The HTML output file is located in the gh-pages branch.
-
 ### To see the rendered result, click on either one of the following URLs:
 
 http://damonzon.github.io/PML-Assignment/PML-Assignment.html
